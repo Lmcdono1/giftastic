@@ -1,0 +1,79 @@
+/*body
+    background: url('https://cdn1.vectorstock.com/i/1000x1000/91/00/background-with-dog-paw-print-and-bone-vector-2669100.jpg');
+    background-attachment: fixed;
+    background-position: center;
+}*/
+
+.header{
+	text-align:center;
+	color:black;
+	border: 0 ;
+	width:100%;
+	height:100%;
+	padding-top:10px;
+	margin-bottom:20px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	clear: both;
+    }
+
+button{
+    background-color: teal;
+    border-radius: 12px;
+    color: white;
+    }
+    
+#puppy-form{
+    font-family: 'Poppins', sans-serif;
+    font-style:bold;
+    margin:15px;
+    font-size:18px;
+    margin-top:20px;
+    text-align:center;
+}
+
+#add-puppy{
+    font-size:16px;
+    border:2px solid teal;
+    margin-top:10px;
+    border-radius:5px;
+}
+
+#puppy-input{
+    border: 2px solid #B8C5D6;
+    border-radius: 5px;
+}
+
+#puppy-div{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left:30px;
+    display:flex;
+    flex-wrap: wrap;
+    padding:20px;
+    
+}
+
+.puppy-div{
+    margin: 0 auto;
+    padding-top:20px;
+    text-align:center;
+    width: 650px;
+}
+    
+p{
+    text-align:center;
+    margin:auto;
+}
+
+.container{
+    text-align:center;
+    margin: 0 auto;
+    width: 650px;
+
+}
+    
+.pics{
+    border-radius: 3px
+}  
+    
+
+
